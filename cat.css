@@ -1,0 +1,39 @@
+.bg{
+    background-color: black;
+}
+
+
+
+.card{
+    border-color: lightcyan;
+    border-radius: 5px;
+    width: 260px;
+    height: 170px;
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+    margin-left:0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.switch-off{
+    width: 40px;
+    background-color: crimson;
+    text-justify: center;
+    padding: 5px;
+    margin-left:40px;
+    font-weight: bold;
+    border-color:lightcyan ;
+    border-radius: 5px;
+}
+
+.switch-on{
+    width: 40px;
+    background-color: rgb(203, 203, 203);
+    text-justify: center;
+    padding: 5px;
+    margin-left:60px;
+    font-weight: bold;
+    border-color:lightcyan ;
+    border-radius: 5px;
+}
